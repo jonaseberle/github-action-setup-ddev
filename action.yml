@@ -1,4 +1,4 @@
-name: 'Setup ddev'
+name: 'Setup ddev (deprecated)'
 description: 'Set up your GitHub Actions workflow with ddev '
 author: 'Jonas Eberle'
 runs:
