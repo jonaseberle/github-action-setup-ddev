@@ -1,5 +1,19 @@
 [![Tests](https://github.com/jonaseberle/github-action-setup-ddev/workflows/tests/badge.svg?event=push)](https://github.com/jonaseberle/github-action-setup-ddev/actions)
 
+# Deprecated
+
+We have moved here:
+
+[https://github.com/ddev/github-action-setup-ddev](https://github.com/ddev/github-action-setup-ddev)
+
+
+Please update your usages:
+
+```yaml
+uses: ddev/github-action-setup-ddev@v1
+```
+
+
 # Setup and start ddev action
 
 This **Github action** starts [ddev](https://github.com/drud/ddev/) with your project's configuration from the directory `.ddev`.
